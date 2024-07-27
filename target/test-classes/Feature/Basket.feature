@@ -1,4 +1,4 @@
-@Reg2
+@Reg1
 Feature:  basket functionality
 
 Scenario: Verify the basket functionality

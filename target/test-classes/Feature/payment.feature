@@ -1,10 +1,6 @@
 Feature: Payment Functionality
 
-
-
-
-
-
+@smoke
   Scenario: Verify payment functionality 
     Given user select payment option
     When user enter card details

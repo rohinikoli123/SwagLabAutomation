@@ -10,3 +10,4 @@ Feature: Checkout Functionality
     And user enters the personal details "Test", "Automation", and "565466"
     And User click on continue btn
     Then validate user navigate to checkout two page
+    

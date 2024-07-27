@@ -16,7 +16,7 @@ public class ReadData {
 	}
 		
 		public void ReadconfidData() throws IOException {
-		FileInputStream file=new FileInputStream(System.getProperty("user.dir")+"src/test/java/envTestScenario/testenvfile");
+		FileInputStream file=new FileInputStream(System.getProperty("user.dir")+"src\\test\\java\\envTestScenario\\Properti.config");
 	     prop=new Properties();
 		prop.load(file);
 				
