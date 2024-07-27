@@ -1,4 +1,4 @@
-@Reg
+@Regression
 Feature: Checkout Functionality
 
   Scenario: Verify checkout with valid first name, last name, and postal code
